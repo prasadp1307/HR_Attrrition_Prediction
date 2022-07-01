@@ -26,4 +26,4 @@ Random forest Classifier
 
 Adaboost Classifier
 
-Artificial Neural Network
+KNN
